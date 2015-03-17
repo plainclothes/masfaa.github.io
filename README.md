@@ -33,6 +33,7 @@ Install Jekyll (first time only):
 ```
 
 Start Jekyll server:
+```
 > bundle exec jekyll serve --host 0.0.0.0 --force_polling
 ```
 
