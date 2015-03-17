@@ -27,7 +27,7 @@ Start up a virtual machine that is ready for Jekyll:
 > cd jekyll
 ```
 
-Install Jekyll (first time only):
+[Install Jekyll](https://help.github.com/articles/using-jekyll-with-pages/) (first time only):
 ```
 > bundle install
 ```
