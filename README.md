@@ -23,10 +23,12 @@ Start up a virtual machine that is ready for Jekyll:
 ```
 > cd [organization].github.io
 > vagrant up
+> vagrant ssh
 ```
 
 Install and start Jekyll:
 ```
+> cd jekyll
 > bundle install
 > bundle exec jekyll serve --host 0.0.0.0 --force_polling
 ```
