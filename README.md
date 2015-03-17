@@ -14,7 +14,7 @@ Make sure that you have installed:
 * VirtualBox
 * Vagrant
 
-Clone this repo:
+Clone the repo:
 ```
 > git clone https://github.com/[organization]/[organization].github.io
 ```
