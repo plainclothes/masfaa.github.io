@@ -24,13 +24,18 @@ Start up a virtual machine that is ready for Jekyll:
 > cd [organization].github.io
 > vagrant up
 > vagrant ssh
+> cd jekyll
 ```
 
-Install and start Jekyll:
+Install Jekyll (first time only):
 ```
-> cd jekyll
 > bundle install
+```
+
+Start Jekyll server:
 > bundle exec jekyll serve --host 0.0.0.0 --force_polling
 ```
+
+Edit in the host OS. Find the website at http://192.168.33.10:4000/
 
 Commit changes and push to the master branch to deploy to production.
