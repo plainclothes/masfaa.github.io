@@ -12,6 +12,8 @@ TODO
 
 TODO
 
+Initial Github Pages site cloned from [`safmt/ghpages`](https://github.com/safmt/ghpages).
+
 # How to Work Locally
 
 Make sure that you have installed:
