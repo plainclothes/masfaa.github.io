@@ -60,6 +60,19 @@ table h2 a:active {color: #fff;}
   color: #ffffff;
   text-decoration:none;
 }
+
+
+/* Fix Google Search */  
+.gsc-search-button{
+    display: none;
+}
+.gsc-search-button-v2{
+    display: none; 
+}
+.gsc-input{
+  font-size: 10pt;  
+}
+
 .reset-this {
     animation : none;
     animation-delay : 0;
