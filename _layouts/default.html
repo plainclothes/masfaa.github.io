@@ -20,18 +20,6 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     {% include head.html %}
-    <style>
-      table h1 a:link {color: #fff;}
-      table h1 a:visited {color: #fff;} 
-      table h1 a:hover {color: #fff;}
-      table h1 a:active {color: #fff;}
-      table h2 a:link {color: #fff;}
-      table h2 a:visited {color: #fff;}
-      table h2 a:hover {color: #fff;}
-      table h2 a:active {color: #fff;}
-
-    </style>
-
   </head>
   <body>
   {% if site.data.theme.color == "default" %}
@@ -41,13 +29,13 @@
   {% endif %}
 	<div style="background-color: #00AEF0;">
 		<div style="float:left;">
-		<table cellpadding="0" cellspacing="0">
-		<tr><td><a name="top"></a><a href="/"><img src="/images/header-mtns.gif" class="visible-lg" alt="MASFAA"/></a></td>
+		<table>
+		<tr><td><a id="top"></a><a href="/"><img src="/images/header-mtns.gif" class="visible-lg" alt="MASFAA"/></a></td>
 		</tr>
 		</table>
 		</div>
 		<div style="background-color: #00AEF0;height: 155px;">
-                <table cellpadding="0" cellspacing="0">
+                <table>
                 <tr>
                 <td>
                 <h1 style="padding:0px;margin:0px;padding-top:20px;"><a href="{{ "/" | prepend:site.baseurl }}" class="headerlink" style="text-decoration:none">MASFAA</a></h1>
