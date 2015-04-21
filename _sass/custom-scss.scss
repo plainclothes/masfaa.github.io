@@ -46,10 +46,6 @@ table h2 a {
 {
   color: #ffffff;
   text-decoration:none;
-  link: #ffffff;
-  visited: #ffffff;
-  hover: #ffffff;
-  active: #ffffff;
 }
 .reset-this {
     animation : none;
@@ -196,7 +192,7 @@ table h2 a {
     vertical-align : baseline;
     visibility : visible;
     white-space : normal;
-    widows : 0;
+    /*widows : 0;*/
     word-spacing : normal;
     z-index : auto;
 }
