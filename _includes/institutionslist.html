@@ -1,0 +1,14 @@
+<table>
+  <tbody>
+  {% for inst  in site.data.institutions %}
+	<tr>
+        <td>	
+	  <a href="{{ inst.link }}" target="_new"> {{ inst.name }} </a>
+	</td>
+        <td>
+	  {{ inst.phone }}
+        </td>
+        </tr>	
+  {% endfor %}
+  </tbody>
+</table>
