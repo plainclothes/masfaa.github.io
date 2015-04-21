@@ -15,11 +15,11 @@ The Association serves as the State forum and acts as the focus for the expressi
     <img src="/images/masfaa.jpg" class="img-responsive" alt="MASFAA" />
   </div>
   <div class="col-md-6,verticalalign">
-    <a href="http://www.nasfaa.org/university" target="_new">
+    <a href="http://www.nasfaa.org/university" target="_blank">
       <img src="/images/nasfaa_u_chart.jpg" class="img-responsive" alt="NASFAA" />
     </a> 
     <p>
-      <a href="http://www.carroll.edu" target="_new">
+      <a href="http://www.carroll.edu" target="_blank">
         <img src="/images/carrollCollege.jpg" class="img-responsive" alt="Carroll College" />
       </a>
     </p>
