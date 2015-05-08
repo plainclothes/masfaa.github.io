@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Governance
+permalink: /governance/index.html
 ---
 
 **President** | Tina Wagner | Carroll College
@@ -11,4 +12,3 @@ title: Governance
 **Associate Member** |  Nolan Glueckert | Student Assistance Foundation
 **Member-at-Large** | Rita Larby | Montana State University
 **Member-at-Large** |  Candi Richardson | University of Montana Western
-
