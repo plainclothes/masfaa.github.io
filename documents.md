@@ -4,7 +4,7 @@ title: Documents
 permalink: documents/index.html
 ---
 
-[Bylaws](#bylaws) • [Policies](#policies) • [History](#history) • [Resources](#resources) • [Minutes](#minutes)
+[Bylaws](#bylaws) • [Policies](#policies) • [History](#historya) • [Resources](#resourcesa) • [Minutes](#minutesa)
 
 <a id="bylaws"></a>
 
@@ -989,7 +989,7 @@ The committee will have two chairs: the President-Elect who is responsible for o
 
 [![](/images/up.gif)](#top)
 
-<a id="history"></a>
+<a id="historya"></a>
 
 ## History
 
@@ -1000,7 +1000,7 @@ The committee will have two chairs: the President-Elect who is responsible for o
 [![](/images/up.gif)](#top)
 
 
-<a id="resources"></a>
+<a id="resourcesa"></a>
 
 ## Resources
 
@@ -1054,23 +1054,23 @@ The committee will have two chairs: the President-Elect who is responsible for o
 
 [![](/images/up.gif)](#top)
 
-<a id="minutes"></a>
+<a id="minutesa"></a>
 
 ## Minutes
 
 Here you can access the minutes from any of the listed meetings. As new meetings occur, we will add new minutes to the listing.
 
 | **Meeting** | **PDF** | **WORD** |
-| Business Meeting April, 2015 | | [Download](downloads/minutes/4-25-14-masfaa-business-meeting notes.docx) |
-| Board Meeting April, 2015 | | [Download](downloads/minutes/4-23-14-masfaa-board-meeting minutes.docx) |
+| Business Meeting April, 2015 | | [Download](downloads/minutes/4-25-14-masfaa-business-meeting%20notes.docx) |
+| Board Meeting April, 2015 | | [Download](downloads/minutes/4-23-14-masfaa-board-meeting%20minutes.docx) |
 | Board Meeting November, 2013 | | [Download](downloads/minutes/nov1masfaa-board-meeting.docx) |
 | Board Meeting July, 2013 | | [Download](downloads/minutes/july25masfaa-board-meeting.docx) |
 | Business Meeting April, 2013 | | [Download](downloads/minutes/masfaa-2013-business-meeting-minutes-2.doc)|
 | Board Meeting April, 2013 | | [Download](downloads/minutes/april-17-masfaa-board-meeting.doc) |
 | Board Meeting October, 2012 | | [Download](downloads/minutes/masfaa-board-meeting-minutes-october-2012.doc) |
-| Board Meeting June, 2012 | | [Download](downloads/minutes/MASFAA Board Meeting June 2012 Minutes.docx) |
-| Business Meeting April 20, 2012 | | [Download](downloads/minutes/MASFAA Business Meeting 4_20_2012.doc) |
-| Board Meeting April 17, 2012 | | [Download](downloads/minutes/MASFAA Board Meeting 4_17_2012.doc) |
+| Board Meeting June, 2012 | | [Download](downloads/minutes/MASFAA%20Board%20Meeting%20June%202012%20Minutes.docx) |
+| Business Meeting April 20, 2012 | | [Download](downloads/minutes/MASFAA%20Business%20Meeting%204_20_2012.doc) |
+| Board Meeting April 17, 2012 | | [Download](downloads/minutes/MASFAA%20Board%20Meeting%204_17_2012.doc) |
 | Board Meeting April, 2011 | | [Download](downloads/minutes/masfaa-april-2011-business-meeting-minutes.doc) |
 | Business Minutes April 4, 2008 | | [Download](downloads/minutes/MASFAA_Business_Meeting_42008.doc) |
 | Business Meetings November 5, 1999 | [Download](downloads/minutes/MASFAA1199.pdf) | [Download](downloads/minutes/MASFAA1199.doc) |

@@ -3,9 +3,9 @@ layout: page
 title: Resources
 permalink: resources/index.html
 ---
-[NT4CM](#nt4cm) • [RAMSFAA Blog](#blog) • [Resources](#resources)
+[NT4CM](#nt4cma) • [RAMSFAA Blog](#blog) • [Resources](#resourcesa)
 
-<a id="nt4cm"></a>
+<a id="nt4cma"></a>
 
 # NT4CM
 
@@ -48,7 +48,7 @@ If you haven't already, I encourage you to subscribe to the [Exchange Blog](http
 
 [![top](/images/up.gif)](#top)
 
-<a id="resources"></a>
+<a id="resourcesa"></a>
 
 # Resources
 
