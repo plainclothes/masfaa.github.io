@@ -279,8 +279,6 @@ November 11, 2011
 *    3.4 Conference Planning
 *    3.5 Ad Hoc Committees
 
-[![](/images/up.gif)](#top)
-
 [4\. Miscellaneous Policies and Procedures](#part4)
 
 *    4.1 Alcohol Policy
@@ -731,7 +729,7 @@ As needed, the President can establish ad hoc committees. These committees shoul
 
 
 
-[![](/images/up.gif)](#top)
+[![](/images/up.gif)](#policies)
 
 <a id="part4"></a>
 
@@ -930,7 +928,7 @@ The Association may have a separate interest-bearing account. This account will 
 All Association checks that are not cashed within 90 days will be considered stale dated. It will be the payee's responsibility to contact the Treasurer for a duplicate to be issued. By declaring a check stale, the Association is not relinquishing its obligation to the payee.
 
 
-[![](/images/up.gif)](#top)
+[![](/images/up.gif)](#policies)
 
 <a id="part6"></a>
 
@@ -987,7 +985,7 @@ The committee will have two chairs: the President-Elect who is responsible for o
 
 
 
-[![](/images/up.gif)](#top)
+[![](/images/up.gif)](#policies)
 
 <a id="historya"></a>
 
