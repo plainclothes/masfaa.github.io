@@ -1,6 +1,44 @@
 // Add your own custom CSS here.
 @import "pygments-tomorrow";
 
+$base-font: 'Merriweather', sans-serif;
+$heading-font: 'Montserrat', sans-serif;
+
+body {
+  font-family: $base-font;
+}
+h1, h2, h3, h4 {
+  font-family: $heading-font;
+}
+.nav {
+  font-family: $heading-font;
+}
+
+.header-blue {
+  height: 155px;
+  background: {
+    image: url('/images/header-mtns.gif');
+    repeat: no-repeat;
+    position: left top;
+    color: #00AEF0;
+  }
+}
+.header-text {
+  background-color: transparent;
+  padding-top: 30px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  padding-left: 18px;
+  padding-right: 18px;
+  &:hover {
+    background-color: #007947;
+  }
+}
+.navbar-inverse .navbar-nav {
+  margin-left: -18px;
+}
+
 .post-content img,
 .post-excerpt-home img,
 .post-nav img {
@@ -26,7 +64,7 @@
    color: white;
    text-shadow:
 		3px 3px 0 #4d4d4d,
-		-1px -1px 0 #4d4d4d,  
+		-1px -1px 0 #4d4d4d,
 		1px -1px 0 #4d4d4d,
 		-1px 1px 0 #4d4d4d,
 		1px 1px 0 #4d4d4d;
@@ -35,7 +73,7 @@
 {
   float: left;
 }
-table { 
+table {
 	border-spacing: 0;
 	border-collapse: collapse;
 }
@@ -45,25 +83,16 @@ table tr td h1 a {
 table tr td h2 a {
   text-decoration: none;
 }
-.header-blue {
-	background-color: #00AEF0;
-}
-.header-text {
-	background-color: #00AEF0;
-	height: 155px;
+.header-h1, .header-h2 {
+  font-family: $heading-font;
+	padding:0px;
+	margin:0px;
 }
 .header-h1 {
-	padding:0px;
-	margin:0px;
 	padding-top:20px;
 }
-.header-h2 {
-	padding:0px;
-	margin:0px;
-	margin-top:0px;
-}
 .header-h1 a:link {color: #fff;}
-.header-h1 a:visited {color: #fff;} 
+.header-h1 a:visited {color: #fff;}
 .header-h1 a:hover {color: #fff;}
 .header-h1 a:active {color: #fff;}
 .header-h2 a:link {color: #fff;}
@@ -85,15 +114,15 @@ table tr td h2 a {
 }
 
 
-/* Fix Google Search */  
+/* Fix Google Search */
 .gsc-search-button{
 	display: none;
 }
 .gsc-search-button-v2{
-	display: none; 
+	display: none;
 }
 .gsc-input{
-  font-size: 10pt;  
+  font-size: 10pt;
 }
 
 .reset-this {

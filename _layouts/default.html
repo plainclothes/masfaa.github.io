@@ -24,30 +24,13 @@
         <div class="navbar navbar-inverse navbar-static-top">
         {% endif %}
         <div class="header-blue">
-          <div class="pull-left">
-            <table>
-              <tr>
-                <td>
-                  <a id="top"></a>
-                  <a href="/"><img src="/images/header-mtns.gif" class="visible-lg" alt="MASFAA" />
-                  </a>
-                </td>
-              </tr>
-            </table>
-          </div>
-          <div class="header-text">
-            <table>
-              <tr>
-                <td>
-                  <h1 class="header-h1">
-                  <a href="{{ "/" | prepend:site.baseurl }}" class="headerlink">MASFAA</a>
-                  </h1>
-                  <h2 class="header-h2">
-                  <a href="{{ "/" | prepend:site.baseurl }}" class="headerlink">Montana Association of Student Financial Aid Administration</a>
-                  </h2>
-                </td>
-              </tr>
-            </table>
+          <div class="header-text container">
+            <h1 class="header-h1">
+            <a href="{{ "/" | prepend:site.baseurl }}" class="headerlink">MASFAA</a>
+            </h1>
+            <h2 class="header-h2">
+            <a href="{{ "/" | prepend:site.baseurl }}" class="headerlink">Montana Association of Student Financial Aid Administration</a>
+            </h2>
           </div>
         </div>
         <div class="container">
@@ -59,7 +42,9 @@
               <span class="icon-bar"></span>
               </button>
             </div>
+            <!--  v=======|  The link below is causing the navigation misalignment  |=======
             <a href="{{ " / " | prepend:site.baseurl }}" class="navbar-brand"></a>
+            -->
           </div>
           <div class="collapse navbar-collapse js-navbar-collapse">
             <ul class="navbar-nav nav">
